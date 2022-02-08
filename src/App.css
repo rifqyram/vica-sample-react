@@ -1,6 +1,17 @@
-.submit-btn {
-  background-color: blue;
-  color: white;
+.counter {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+p {
+  margin: 0 1em;
+}
+
+button {
+  padding: 14px;
+  background-color: aqua;
   border: 0;
-  padding: 8px;
 }
